@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "War",
 "productName": "war",
-"productVersion": "0.1",
+"productVersion": "0.11",
 "dataUrl": "Build_Web.data.unityweb",
 "wasmCodeUrl": "Build_Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build_Web.wasm.framework.unityweb",
